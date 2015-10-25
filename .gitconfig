@@ -2,6 +2,6 @@
 	name = Sierra Yit
 	email = sierrayit@gmail.com
 [core]
-	editor = {vim}
+	editor = vim
 [push]
 	default = simple
